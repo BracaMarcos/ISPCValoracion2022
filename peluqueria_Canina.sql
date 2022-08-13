@@ -29,5 +29,5 @@ CREATE TABLE dueno (
 );
 use peluqueria_Canina;
 select * from perro;
-insert into dueno(id_dueno,nombre,apellido,telefono,direccion) values (39174096,'jose','navel',424239,'avenida losa 321');
-insert into perro(id_perro,idDueno,nombre,fecha_nac,genero) values (001,39174096,'chicho','21-05-21','m');
+insert into dueno(id_dueno,nombre,apellido,telefono,direccion) values (56472231,'marcos','braca',35468987,'gral paz 250');
+insert into perro(id_perro,idDueno,nombre,fecha_nac,genero) values (001,56472231,'martin','07-03-22','m');
